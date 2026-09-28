@@ -85,8 +85,8 @@ comes from the platform scope.
 ## Not in the scope yet: add to the platform scope
 
 These options come from Kate or from existing OzWear portals, but the
-scope (10 Sep 2026) doesn't cover them. They need adding before the
-platform is built:
+scope (10 Sep 2026) didn't cover them. **Added to the platform scope on
+2026-09-28 as tracked changes, waiting for Kate to accept.**
 
 1. Member approvals, where new sign-ups wait for a centre or organisation approver (scope §7.2 only has invites and bulk import).
 2. Staff off-boarding, including what happens to unused budget.

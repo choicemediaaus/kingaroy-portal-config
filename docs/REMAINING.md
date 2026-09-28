@@ -19,9 +19,17 @@ be checked.
 - Entity and ABN/ACN (DECISIONS.md D2) are deferred. They must be settled
   before any domain, gateway, Xero organisation or sending domain is set up.
 
+## Waiting on Kate
+
+- Accept or reject the tracked changes in the platform scope (sent
+  2026-09-28): the 11 portal options, plus gaps G1-G7 from Kingaroy's
+  operations feedback (docs/PLATFORM-GAPS.md). Decide how far returned
+  stock goes (G7 vs §13 out of scope).
+- The scope document is still titled "OzWear Master Portal Platform";
+  worth a neutral name now OzWear is being sold.
+
 ## Not started yet
 
-- Adding the 11 scope gaps listed in docs/PORTAL-OPTIONS.md to the platform scope
 - brand/ folder (waits on the name decision)
 
 ## Done 2026-09-28 (second session)
