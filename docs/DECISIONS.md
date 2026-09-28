@@ -65,3 +65,13 @@ Kingaroy supplies childcare, council and schools. The list of
 organisations will come from a Xero customer export. Only the business
 name, type and site count go into this repo. Contact people's names,
 emails and phones stay out (minimum personal information).
+
+## D7 — 2026-09-28 — Platform renamed; scope has its own home
+
+**Decision (Kate).** The platform is called the **Unified Uniform Portal**
+for now (working name), replacing "OzWear Master Portal Platform" /
+"Choice Master Portal", which was only a starting title. The scope is
+saved in its own repo, `unified-uniform-portal` (docs/SCOPE.md and a
+.docx), which becomes the platform repo when the build starts. The
+portal options brief moved there too. D3 still stands: no platform code
+exists yet.

@@ -2,7 +2,7 @@
   "$comment": "Read by the Choice Hub's asset register. Never put a secret value in here, only the NAME of the entry that holds it. Blank means not known yet; see docs/REMAINING.md.",
   "client": "Kingaroy",
   "client_note": "Working name until the rebrand is decided (docs/DECISIONS.md D1). Separating from OzWear.",
-  "build": "Master portal (client on Choice Master Portal platform)",
+  "build": "Master portal (client on Unified Uniform Portal platform)",
   "type": "product-subscription",
   "stack": "Configuration and data only, no application code. Runs on the Unified Uniform Portal platform (working name; not built yet, docs/DECISIONS.md D3).",
   "platform_repo": "https://github.com/choicemediaaus/unified-uniform-portal",
