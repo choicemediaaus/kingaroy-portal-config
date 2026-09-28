@@ -8,7 +8,7 @@ about it.
 
 Kingaroy (working name) supplies uniforms to childcare, councils and
 schools and is separating from OzWear. Its customer ordering portals will
-run on the Unified Uniform Portal platform as the platform's second client.
+run on the Unified Uniform Portal platform as the platform's first client.
 This repo holds Kingaroy's configuration and data only: portal options,
 branding, supplier and catalogue data, users to invite, the domain plan
 and the go-live steps. It deliberately holds **no application code**, no

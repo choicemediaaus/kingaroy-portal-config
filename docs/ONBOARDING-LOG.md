@@ -3,7 +3,7 @@
 Kingaroy is the pilot for the platform's onboarding path. Every step that
 needed a developer (rather than client staff filling in a form) is
 recorded here. Each one is a gap in self-serve onboarding (scope §7.2,
-§5.3 test: "could a second client be onboarded by filling in
+§5.3 test: "could the next client be onboarded by filling in
 configuration, with no code change?").
 
 Format: date · step · who did it · needed a developer? · why · platform follow-up.

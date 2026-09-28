@@ -1,7 +1,7 @@
 # kingaroy-portal-config
 
 Configuration, branding, catalogue data, users to invite, domain plan and
-go-live steps for **Kingaroy** (working name) as the second client on the
+go-live steps for **Kingaroy** (working name) as the first client on the
 **Unified Uniform Portal** platform (working name; formerly "Choice Master Portal").
 
 This repo contains **no application code**. The portal is not a separate

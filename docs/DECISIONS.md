@@ -75,3 +75,16 @@ saved in its own repo, `unified-uniform-portal` (docs/SCOPE.md and a
 .docx), which becomes the platform repo when the build starts. The
 portal options brief moved there too. D3 still stands: no platform code
 exists yet.
+
+## D8 — 2026-09-28 — OzWear has no part in the platform; Kingaroy is its first client
+
+**Decision (Kate).** OzWear has nothing to do with the Unified Uniform
+Portal. The platform scope (unified-uniform-portal/docs/SCOPE.md) was
+rewritten with every OzWear mention removed and Kingaroy as the first
+client. Because Kingaroy has no existing portals, the scope's migration,
+WordPress and rollback sections were replaced by onboarding (§11) and
+launch and fallback (§15.4). The separation rules in this repo still
+apply: they are about Kingaroy's own accounts, domain and brand.
+
+A review page for Kingaroy (unified-uniform-portal/review/) collects
+section-by-section feedback by email.
