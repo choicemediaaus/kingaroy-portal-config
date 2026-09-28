@@ -3,15 +3,27 @@
 An honest running list. Go-live steps, in order, will be added below once
 the platform's README and docs/ have been read.
 
-## Blocking — nothing else can start until these are done
+## Status at 2026-09-28 (end of first session)
 
-1. **Platform scope not read.** "OzWear Master Portal Platform Scope"
-   (10 Sep 2026) was not available to the session on 2026-09-28.
-2. **Platform repo not found.** No Master Portal platform repo in
-   ~/Documents/GitHub on 2026-09-28. The repo name is needed (and a local
-   clone of choicemediaaus/<name>) so configuration matches what the
-   platform supports today.
-3. **Entity and ABN/ACN** — see DECISIONS.md D2.
+- Scope read (attached to the project). The platform has NOT been started
+  (DECISIONS.md D3), so data is gathered as CSV/JSON/xlsx for now.
+- Waiting on the client:
+  - A reply to the naming email. The shortlist is in docs/branding/NAME-IDEAS.md.
+  - The completed docs/client-forms/Kingaroy-portal-getting-started.xlsx
+    (portal checklist, suppliers, production steps, order cycles, payments).
+  - A Xero customer export (business names only).
+- Kate to check domains for Kitted Uniforms and Good Stitch Uniforms.
+- Kate is writing a portal variations document based on OzWear portals.
+  The list of options so far is in docs/PORTAL-OPTIONS.md.
+- Entity and ABN/ACN (DECISIONS.md D2) are deferred. They must be settled
+  before any domain, gateway, Xero organisation or sending domain is set up.
+
+## Not started yet
+
+- README.md, HANDOVER.md, choice.json, .env.example
+- docs/PLATFORM-GAPS.md and docs/ONBOARDING-LOG.md
+- Adding the 11 scope gaps listed in docs/PORTAL-OPTIONS.md to the platform scope
+- Not yet on GitHub (choicemediaaus/kingaroy-portal-config, private)
 
 ## Domain
 
