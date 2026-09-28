@@ -2,7 +2,7 @@
 
 Configuration, branding, catalogue data, users to invite, domain plan and
 go-live steps for **Kingaroy** (working name) as the second client on the
-**Choice Master Portal** platform.
+**Unified Uniform Portal** platform (working name; formerly "Choice Master Portal").
 
 This repo contains **no application code**. The portal is not a separate
 application: Kingaroy is a Client record (scope §5.1) on the shared
@@ -17,7 +17,7 @@ platform, and everything here is data the platform reads.
 | `.env.example` | Names of Kingaroy's per-client connections, values blank. |
 | `docs/DECISIONS.md` | Decisions, newest last. |
 | `docs/REMAINING.md` | What isn't finished, and go-live steps in order. |
-| `docs/PORTAL-OPTIONS.md` | The brief every new portal is built from (a platform document; moves to the platform repo). |
+| `docs/PORTAL-OPTIONS.md` | Pointer: the portal options brief now lives in the platform repo. |
 | `docs/PLATFORM-GAPS.md` | Things Kingaroy needs that the platform can't do by configuration. |
 | `docs/ONBOARDING-LOG.md` | Every onboarding step that needed a developer. |
 | `docs/branding/` | Name shortlist, trade-mark and domain checks. |

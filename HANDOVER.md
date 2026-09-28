@@ -8,7 +8,7 @@ about it.
 
 Kingaroy (working name) supplies uniforms to childcare, councils and
 schools and is separating from OzWear. Its customer ordering portals will
-run on the Choice Master Portal platform as the platform's second client.
+run on the Unified Uniform Portal platform as the platform's second client.
 This repo holds Kingaroy's configuration and data only: portal options,
 branding, supplier and catalogue data, users to invite, the domain plan
 and the go-live steps. It deliberately holds **no application code**, no
@@ -42,7 +42,7 @@ Names are in `.env.example`. Nothing with a value has ever been committed.
 
 ## Where it runs
 
-On the Choice Master Portal platform, Sydney or Melbourne region (scope
+On the Unified Uniform Portal platform, Sydney or Melbourne region (scope
 §14), as its own Client record. Hosting, database and deploys are the
 platform's; see its repo once it exists. Domain: temporary one not yet
 chosen; see docs/REMAINING.md.

@@ -4,12 +4,21 @@
   "client_note": "Working name until the rebrand is decided (docs/DECISIONS.md D1). Separating from OzWear.",
   "build": "Master portal (client on Choice Master Portal platform)",
   "type": "product-subscription",
-  "stack": "Configuration and data only, no application code. Runs on the Choice Master Portal platform (not started yet, docs/DECISIONS.md D3).",
-  "platform_repo": "",
+  "stack": "Configuration and data only, no application code. Runs on the Unified Uniform Portal platform (working name; not built yet, docs/DECISIONS.md D3).",
+  "platform_repo": "https://github.com/choicemediaaus/unified-uniform-portal",
   "repo": "https://github.com/choicemediaaus/kingaroy-portal-config",
   "live_url": "",
-  "hosting": { "provider": "Choice Master Portal platform", "account": "", "project": "", "client_id": "", "region": "Sydney or Melbourne (scope §14), not yet provisioned" },
-  "database": { "provider": "platform database (shared, tenant-isolated)", "name": "" },
+  "hosting": {
+    "provider": "Unified Uniform Portal platform",
+    "account": "",
+    "project": "",
+    "client_id": "",
+    "region": "Sydney or Melbourne (scope §14), not yet provisioned"
+  },
+  "database": {
+    "provider": "platform database (shared, tenant-isolated)",
+    "name": ""
+  },
   "domain": {
     "name": "",
     "registrar": "Crazy Domains (Choice reseller account)",
@@ -20,14 +29,42 @@
     "end_date": ""
   },
   "secrets": [
-    { "name": "PAYMENT_GATEWAY_CREDENTIALS", "lives_in": "Platform secret store + 1Password › Choice › Kingaroy › Payment gateway (provider not chosen, scope §17)" },
-    { "name": "XERO_CONNECTION", "lives_in": "Platform secret store + 1Password › Choice › Kingaroy › Xero" },
-    { "name": "TRANSACTIONAL_EMAIL_SENDING_KEY", "lives_in": "Platform secret store + 1Password › Choice › Kingaroy › Transactional email" }
+    {
+      "name": "PAYMENT_GATEWAY_CREDENTIALS",
+      "lives_in": "Platform secret store + 1Password › Choice › Kingaroy › Payment gateway (provider not chosen, scope §17)"
+    },
+    {
+      "name": "XERO_CONNECTION",
+      "lives_in": "Platform secret store + 1Password › Choice › Kingaroy › Xero"
+    },
+    {
+      "name": "TRANSACTIONAL_EMAIL_SENDING_KEY",
+      "lives_in": "Platform secret store + 1Password › Choice › Kingaroy › Transactional email"
+    }
   ],
-  "backups": { "what": "config and data in git; live data in the platform's database backups", "where": "github + platform", "schedule": "on push" },
-  "maintenance": { "dependabot": false, "ci": false, "auto_merge_patches": false, "daily_scan": false, "uptime_monitor": "" },
-  "billing": { "monthly_fee_aud": null, "care_plan": "" },
-  "contacts": [ { "name": "", "role": "", "email": "" } ],
+  "backups": {
+    "what": "config and data in git; live data in the platform's database backups",
+    "where": "github + platform",
+    "schedule": "on push"
+  },
+  "maintenance": {
+    "dependabot": false,
+    "ci": false,
+    "auto_merge_patches": false,
+    "daily_scan": false,
+    "uptime_monitor": ""
+  },
+  "billing": {
+    "monthly_fee_aud": null,
+    "care_plan": ""
+  },
+  "contacts": [
+    {
+      "name": "",
+      "role": "",
+      "email": ""
+    }
+  ],
   "handover_doc": "HANDOVER.md",
   "status": "framework",
   "last_reviewed": "2026-09-28"

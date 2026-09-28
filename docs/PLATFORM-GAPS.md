@@ -9,9 +9,9 @@ scheduled in the platform / done).
 
 ## Confirmed gaps
 
-From Kingaroy's operations feedback, 2026-09-28. All were added to the
-platform scope on 2026-09-28 as tracked changes, waiting for Kate to
-accept. Status: **proposed in scope**.
+From Kingaroy's operations feedback, 2026-09-28. Status: **in the platform
+scope** (unified-uniform-portal/docs/SCOPE.md, revised 2026-09-28), to be
+scheduled when the build is planned.
 
 | # | What | Why Kingaroy needs it | Scope section |
 |---|---|---|---|
@@ -35,7 +35,7 @@ accounted for" would be full stock control, which is still out of scope.
 ## Candidates, waiting on the client
 
 docs/PORTAL-OPTIONS.md lists 11 options that the scope (10 Sep 2026)
-didn't cover. All 11 were added to the platform scope on 2026-09-28 as
-tracked changes (§7.2, §7.6, §7.7; wrong-size swaps under §7.16). Any that Kingaroy's
+didn't cover. All 11 are now in the platform scope (§7.2, §7.6, §7.7;
+wrong-size swaps under §7.16). Any that Kingaroy's
 completed getting-started workbook shows it actually needs get moved up
 into "Confirmed gaps" with the reason.

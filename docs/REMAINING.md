@@ -21,12 +21,8 @@ be checked.
 
 ## Waiting on Kate
 
-- Accept or reject the tracked changes in the platform scope (sent
-  2026-09-28): the 11 portal options, plus gaps G1-G7 from Kingaroy's
-  operations feedback (docs/PLATFORM-GAPS.md). Decide how far returned
-  stock goes (G7 vs §13 out of scope).
-- The scope document is still titled "OzWear Master Portal Platform";
-  worth a neutral name now OzWear is being sold.
+- Decide how far returned stock goes (G7 vs scope §13 out of scope). The
+  scope currently carves out returned stock only.
 
 ## Not started yet
 
@@ -37,6 +33,9 @@ be checked.
 - README.md, HANDOVER.md, choice.json, .env.example (names only)
 - docs/PLATFORM-GAPS.md (no confirmed gaps yet) and docs/ONBOARDING-LOG.md
 - Removed a stale .git/index.lock left by the first session
+- Platform scope renamed "Unified Uniform Portal" and saved in a new
+  platform repo, unified-uniform-portal (local; not on GitHub yet), with
+  the 11 portal options and gaps G1-G7 added. PORTAL-OPTIONS.md moved there.
 - Published to GitHub: choicemediaaus/kingaroy-portal-config (private), via
   GitHub Desktop. GitHub settings from the kit (branch protection etc.) not
   needed until the repo gains dependencies/CI.
