@@ -40,7 +40,7 @@ classes 25, 35 or 40. Kate has NOT yet checked domains for these.
 |---|---|---|
 | Kitted Uniforms | "kitted" and "kitted out": no marks at all. | **Clear.** |
 | Good Stitch Uniforms | "good stitch" and "goodstitch": no marks. Avoid a "Stitch Co" ending: Pickle And Stitch Co (2682123) is pending in 25. | **Clear.** |
-| The Kit Room | "kit room" and "kitroom": only RSF Room Seal Flue Kit (class 11, unrelated). | **Clear.** |
+| The Kit Room | "kit room" and "kitroom": only RSF Room Seal Flue Kit (class 11, unrelated). Trade mark was clear, but Kate found on 2026-09-28 that kitroom.com.au is not available. | **Drop** (domain taken). |
 | Terra Rossa Uniforms | "Terra rossa" means "red soil". TerraRossa Impact Advisors (2539607) is registered in 35, and the other marks are mostly wine and beef. | **Drop.** Live mark in 35, and it reads as wine. |
 | Silo Uniforms | Image Silo (812196) is registered in **35 and 40**. | **Drop.** |
 | Stockyard Uniforms | R.M. Williams Stockyard (1168524) is registered in **25**. | **Drop.** |
@@ -48,10 +48,11 @@ classes 25, 35 or 40. Kate has NOT yet checked domains for these.
 | Field Day Uniforms | Field Day (2658413) is accepted in **25**, and Field Day (1738762) is registered in 35. | **Drop.** |
 | Loom & Co. | Fruit of the Loom and many other clothing marks. | **Drop.** |
 
-## Current clear list (to send)
+## Shortlist sent to the client (2026-09-28)
 
 1. Red Soil Uniform Co.
 2. Kingaroy Uniform Co. (place name: needs a logo to be protectable)
-3. Kitted Uniforms
-4. Good Stitch Uniforms
-5. The Kit Room
+3. Kitted Uniforms (domain not yet checked)
+4. Good Stitch Uniforms (domain not yet checked)
+
+The email also mentions the names that were dropped and why.
