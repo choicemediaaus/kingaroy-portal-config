@@ -29,3 +29,39 @@ organisation or sending domain is set up in its name.
 
 Until this is settled: configuration and data work only. Nothing
 registered, nothing connected.
+
+## D3 — 2026-09-28 — The platform hasn't been started
+
+**Fact.** The Choice Master Portal platform has not been started. The
+scope ("OzWear Master Portal Platform Scope", 10 Sep 2026) is still a
+draft, and there is no platform repo yet.
+
+**Consequence.** For now this repo gathers Kingaroy's data in plain
+CSV/JSON. It gets mapped to the platform's import format once that
+format exists. Kingaroy is the "second client is real" trigger in scope
+§12, so onboarding work belongs in the platform plan from the start,
+not afterwards.
+
+## D4 — 2026-09-28 — Portals are built to a brief; payment and budgets vary per portal
+
+**Decision (Kate).** Each Kingaroy customer portal can be configured to
+its own brief. Budgets, approvals, and card versus account payment
+differ from portal to portal. They are portal settings, not
+Kingaroy-wide answers. Kate will write a portal variations document
+based on what has been done for OzWear. It describes platform options
+every client gets (scope §5.3, §7.6–7.8), so its long-term home is the
+platform repo.
+
+## D5 — 2026-09-28 — Mail
+
+**Plan (Kate).** New mail setup on the new domain, likely Microsoft 365.
+Portal notifications (order confirmations and similar) send through a
+separate transactional email service, with SPF/DKIM/DMARC on the same
+domain set up to work alongside Microsoft 365.
+
+## D6 — 2026-09-28 — Customer list comes from Xero
+
+Kingaroy supplies childcare, council and schools. The list of
+organisations will come from a Xero customer export. Only the business
+name, type and site count go into this repo. Contact people's names,
+emails and phones stay out (minimum personal information).
