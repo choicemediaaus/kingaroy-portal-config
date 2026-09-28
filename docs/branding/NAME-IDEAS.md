@@ -1,24 +1,31 @@
-# Brand name ideas — conversation starters
+# Brand name ideas and trade-mark checks
 
-Sent to the client 2026-09-28 to open the rebrand conversation. These are
-IDEAS, not a shortlist: none has been checked yet. Rule (DECISIONS.md D1):
-nothing leans on "OzWear" — so no "Oz" and no "-wear" suffix either.
+Rule (DECISIONS.md D1): nothing leans on "OzWear", so no "Oz" and no
+"-wear" suffix. Live conflicts are dropped, not argued for.
 
-| Idea | Why it might work | Watch-outs |
+"Common Thread" removed from the list by Kate, 2026-09-28.
+Domains: Kate confirmed on 2026-09-28 that all the domains are available.
+
+## Trade-mark quick search — 2026-09-28
+
+Where: IP Australia Australian Trade Mark Search, quick search on
+trade-mark words (https://search.ipaustralia.gov.au/trademarks/search/quick,
+filter "Trade mark words"). Classes that matter for a uniform business:
+25 (clothing), 35 (retail/business services), 40 (embroidery/printing).
+This is a quick search, not clearance advice. Before money goes into
+branding, a trade-mark attorney should do a proper search on the chosen
+name.
+
+| Name | Result | Verdict |
 |---|---|---|
-| Red Soil Uniform Co. | Kingaroy's red soil is what the area is known for; local without naming the town | "Uniform Co." pattern is common |
-| Burnett Uniforms | Covers the South Burnett, room to grow beyond one town | Plain; may be taken |
-| Bunya Uniforms | Short, distinctive, nods to the Bunya Mountains | "Bunya" used by many local businesses |
-| Ironbark Uniforms | Tough, Australian, suits workwear | Ironbark is a very common business name — likely conflicts |
-| Kingaroy Uniform Co. | Instant local recognition; easiest .com.au eligibility | Ties the brand to one town if they grow |
-| Common Thread | Warmer, about people rather than place | Least distinctive; most likely contested |
+| Red Soil Uniform Co. | Searched "red soil" and "redsoil". No live mark in 25, 35 or 40. Registered marks sit in other classes: Rosie Red Soil Sweet Potatoes (31, 44), Red Soils Estate (33, wine), Redsoil Constructions (37). The only class 25 marks are a camo colour list ("...Red Clay Soil...", 2639755, in opposition) and one that has lapsed (Abjua Hand Dyed in Red Soil). | **Clear.** |
+| Kingaroy Uniform Co. | Searched "kingaroy". No live mark in 25 or 40. The only one in 35 is HN Kingaroy Online (1812030, local news, renewal due). The rest are peanuts, food, a dental practice and a rail trail. | **Clear to use**, but it's a place name. On its own it's hard to register as a trade mark (the same thing happened to several "Kingaroy …" and "South Burnett …" applications, lapsed as not accepted), so it would need a logo to be protectable. |
+| Bunya Uniforms | Searched "bunya". Bunya Toy Town (2558440, Bandilla Creative Media) is registered from Jan 2026 and covers class 25 clothing. The other live Bunya marks are in unrelated classes (10, 12, 20, 6, 9, 42). | **Drop.** A registered clothing mark shares the key word. |
+| Burnett Uniforms | Searched "burnett". Burnett New York (2058351) is registered in 14, 18, **25 and 35**. It's also a regional name: several "South Burnett …" marks lapsed as not accepted. | **Drop.** |
+| Ironbark Uniforms | Searched "ironbark". Ironbark (2315710, Jellor Pty Ltd) is registered in 9 and **25** (clothing, headwear, footwear, gloves). Ironbark (1331689) is registered in **40**. Several more are pending in 35. | **Drop.** |
 
-## Once the client picks favourites (the shortlist)
+## Still to check on the survivors
 
-For each: IP Australia trade-mark quick search (classes 25 clothing, 35
-retail, 40 embroidery/printing), .com.au and .au availability, eligibility
-for the Kingaroy business as registrant, and Instagram/Facebook handles.
-Live conflicts are dropped, not argued for. Record results here.
-
-Availability was NOT checked on 2026-09-28 (registry lookups blocked from
-the session).
+- .com.au / .au eligibility for the Kingaroy business as registrant
+  (needs the entity, DECISIONS.md D2).
+- Instagram and Facebook handles.
