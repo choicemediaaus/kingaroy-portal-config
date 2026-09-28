@@ -22,7 +22,6 @@ be checked.
 ## Not started yet
 
 - Adding the 11 scope gaps listed in docs/PORTAL-OPTIONS.md to the platform scope
-- Not yet on GitHub (choicemediaaus/kingaroy-portal-config, private)
 - brand/ folder (waits on the name decision)
 
 ## Done 2026-09-28 (second session)
@@ -30,6 +29,9 @@ be checked.
 - README.md, HANDOVER.md, choice.json, .env.example (names only)
 - docs/PLATFORM-GAPS.md (no confirmed gaps yet) and docs/ONBOARDING-LOG.md
 - Removed a stale .git/index.lock left by the first session
+- Published to GitHub: choicemediaaus/kingaroy-portal-config (private), via
+  GitHub Desktop. GitHub settings from the kit (branch protection etc.) not
+  needed until the repo gains dependencies/CI.
 
 ## Domain
 
